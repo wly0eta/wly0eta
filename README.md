@@ -86,13 +86,17 @@ LoRA + GradCache contrastive training on multi-GPU nodes, paired significance te
   </picture>
 </p>
 
+<!-- SNAKE: re-enable once GitHub Actions can run (the snake workflow writes the 'output' branch)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wly0eta/wly0eta/output/snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/wly0eta/wly0eta/output/snake.svg" />
 </picture>
+-->
 
 ### 📫 Reach me
 
-<!-- fill in the ones you want public -->
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/ozan-bicakci/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ozanbicakci07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:obicakci@umass.edu"><img src="https://img.shields.io/badge/UMass%20email-881c1c?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+</p>
