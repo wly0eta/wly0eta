@@ -75,16 +75,17 @@ LoRA + GradCache contrastive training on multi-GPU nodes, paired significance te
 
 ### 📊 GitHub stats
 
-<p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wly0eta&show_icons=true&hide_border=true&theme=tokyonight" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=wly0eta&show_icons=true&hide_border=true&theme=default" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wly0eta&layout=compact&hide_border=true&theme=tokyonight" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wly0eta&layout=compact&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wly0eta&theme=tokyonight&hide_border=true" />
+    <img alt="contribution streak" src="https://streak-stats.demolab.com?user=wly0eta&theme=default&hide_border=true" />
   </picture>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wly0eta&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wly0eta&theme=minimal&hide_border=true&area=true" />
+</picture>
 
 <!-- SNAKE: re-enable once GitHub Actions can run (the snake workflow writes the 'output' branch)
 <picture>
